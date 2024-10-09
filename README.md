@@ -9,3 +9,5 @@ The .ino file must be uploaded to the Arduino while the .py file can be run on a
 Included alongside these files is the GUI app that does not require an IDE or coding environment to run but does require serial communication with the Arduino.
 
 Additionally I have included images of the wiring guides which can also be found in the Project Report pdf file.
+
+BATTERIES ARE NOT NECESSARY AS THE ARDUINO CAN BE POWERED VIA USB CONNECTION TO THE PC/LAPTOP.
